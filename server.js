@@ -16,9 +16,9 @@ app.use(express.json());
 const db = mysql.createConnection(
   {
     host: 'localhost',
-    // MySQL username, Enter Username
-    user: 'root',
-    // MySQL password, Enter Password
+    // MySQL username, Enter Username to run. Will not run without
+    user: '',
+    // MySQL password, Enter Password here to run. Will not run without
     password: '',
     database: 'employee_tracker_db'
   },
