@@ -11,8 +11,26 @@
 
 ## Description
 An employee tracker that uses MySql to hold departments, roles, and employees in tables.
+Walkthrough Video can be found [HERE](https://video.com)
+![screenshot of working app](https://image.png)
 ## Installation
-inquirer, MySQL2, 
+inquirer, MySQL2,
+To install must have a package.json and use command
+<pre>
+npm i
+</pre>
+Will also need inquirer to install use:
+<pre>
+npm i inquirer@8.2.4
+</pre>
+Finally, will need MySQL2 wich can be installed by:
+<pre>
+npm install --save mysql2
+</pre>
+Then to run code:
+<pre>
+node index.js
+</pre>
 ## Usage
 To create a database that holds departments, role, and employees and to be used in javascript
 ## Contributing
