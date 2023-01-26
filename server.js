@@ -19,8 +19,8 @@ const db = mysql.createConnection(
     // MySQL username, Enter Username to run. Will not run without
     user: 'root',
     // MySQL password, Enter Password here to run. Will not run without
-    password: 'ThisisMyPassword192019!',
-    database: 'employee_tracker_db'
+    password: '',
+    database: ''
   },
   runProgram()
 );
