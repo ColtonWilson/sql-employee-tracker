@@ -11,8 +11,10 @@
 
 ## Description
 An employee tracker that uses MySql to hold departments, roles, and employees in tables.
-Walkthrough Video can be found [HERE](https://video.com)
-![screenshot of working app](https://image.png)
+Walkthrough Video can be found [HERE](https://github.com/ColtonWilson/sql-employee-tracker/blob/main/assets/Walkthrough_Video.webm)
+<br>
+Note: Video is too large for Github to load, but should be able to view raw or inside of Visual Studio Code. 
+![screenshot of working app](https://github.com/ColtonWilson/sql-employee-tracker/blob/main/assets/working.png)
 ## Installation
 inquirer, MySQL2,
 To install must have a package.json and use command
